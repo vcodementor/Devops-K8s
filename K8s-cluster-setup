@@ -76,7 +76,7 @@ To load the above kernel parameters, run
 $ sudo sysctl --system
 
 3) Install and Configure Containerd
-Containerd provides the container run time for Kubernetes. So, Install containerd on all three instances.
+Containerd provides the container run time for Kubernetes. So, Install containerd/CRI-O/Rocket-miles on all three instances.
 
 First install containerd dependencies,
 
